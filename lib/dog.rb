@@ -1,2 +1,3 @@
 class Dog
   @@dog = []
+end
